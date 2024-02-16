@@ -1,0 +1,18 @@
+{
+  "todos": [
+    [
+      {
+        "id": "178941b7-2017-4191-ace5-9fcd2bc88427",
+        "text": "Typscrip öğren",
+        "is_done": true,
+        "created_at": "16.02.2024"
+      },
+      {
+        "id": "fb2d92e9-ece1-464c-98de-35d102fd3dbc",
+        "text": "Ders çalış",
+        "is_done": true,
+        "created_at": "16.02.2024"
+      }
+    ]
+  ]
+}
